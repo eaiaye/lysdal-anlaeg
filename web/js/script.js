@@ -1,3 +1,3 @@
 function myFunction () {
-    alert("Hvem er du?")
+    alert("Who are you?")
 };
